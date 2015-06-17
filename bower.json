@@ -1,0 +1,28 @@
+{
+  "name": "commute-calculator",
+  "version": "0.0.0",
+  "authors": [
+    "John Heroy <johnheroy@gmail.com>"
+  ],
+  "description": "Commute Optimization Calculator",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "commute",
+    "transportation"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
